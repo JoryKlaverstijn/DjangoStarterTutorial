@@ -13,6 +13,7 @@ authors = [{ name = "Your Name" }]
 
 dependencies = [
     "django>=6.0.4",
+    "django-debug-toolbar>=6.3.0",
 ]
 
 [project.optional-dependencies]
